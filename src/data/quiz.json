@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "question":"What is the capital of Croatia ?",
+            "choices": ["Split", "Osijek", "Zagreb", "Rijeka"],
+            "answer":"Zagreb"
+        },
+        {
+            "question": "What is the capital of Slovenia ?",
+            "choices": ["Ceije", "Ljubljana", "Maribor", "Koper"],
+            "answer":"ljubljana"
+        },
+        {
+            "question": "What is the capital of Austria ?",
+            "choices":["Graz", "Salzburg","inmsbruck", "Vienna"],
+            "answer":"vienna"
+        },
+        {
+            "question":"What is the capital of Serbia ?",
+            "choices":["Belgrade","novi sad", "nis", "Subotica"],
+            "answer":"belgrade"
+        },
+        {
+            "question":"What is the capital of Bonsia and Herzegovina  ?",
+            "choices":["Mostar","Sarajevo", "Banja Luka", "Tuzla"],
+            "answer":"Sarajevo"
+        },
+        {
+            "question":"What is the capital of India ?",
+            "choices":["Mumbai","Kolkata" , "Delhi", "Utrakhand"],
+            "answer":"Delhi"
+        },
+        {
+            "question":"How many Times zones are there in Russsia ?",
+            "choices":["1", "4", "8", "11"],
+            "answer":"11"
+        },
+        {
+            "question":"How many stripes are there on the Us flag ?",
+            "choices":["4","5", "9","13"],
+            "answer":"13"
+        },
+        {
+            "question":"Who invented the World Wide Web ?",
+            "choices":["Tim Berners-Lee", "Michelangelo", "Harry POtter","Gotham"],
+            "answer":"Time Berners- Lee"
+        },
+        {
+            "question":"Who is founded in cricket game ? ",
+            "choices":["nepal", "india", "brazil", "england"],
+            "answer":"england"
+        }
+
+    ]
+}
